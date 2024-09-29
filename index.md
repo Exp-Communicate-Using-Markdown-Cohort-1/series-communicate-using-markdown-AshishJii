@@ -10,3 +10,6 @@ class ABD {
   }
 }
 ```
+- [ ] Turn on Lights
+- [ ] Switch off Lights
+- [x] Oh! Can't see anything
